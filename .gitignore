@@ -1,0 +1,45 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Database files (SQLite, etc.)
+*.db
+*.sqlite3
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pytest / Coverage / Build
+htmlcov/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# FastAPI specific (if you store generated static or temp files)
+staticfiles/
+temp/
+
+
+*.lock
+*.lock.*
