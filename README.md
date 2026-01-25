@@ -12,7 +12,8 @@ REST API using FastAPI and Imagekit.io
 - **Backend:** FastAPI, Python 3.11+
 - **Database:** SQLite with SQLAlchemy ORM
 - **Authentication:** FastAPI JWT implementation
-- **Libraries:** Pydantic, Passlib, Python-Jose, Async SQLAlchemy
+- **Libraries:** Pydantic, Async SQLAlchemy
 
 ## Notes
 - Just a Learning project
+
